@@ -3,3 +3,5 @@ node_modules
 style.css
 virtualenv
 uploads/*
+
+.DS_Store
